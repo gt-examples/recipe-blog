@@ -1,0 +1,721 @@
+{
+  "032ed975453522d9": [
+    {
+      "c": "Ressources culinaires",
+      "i": 1,
+      "t": "h3"
+    },
+    {
+      "c": [
+        {
+          "c": {
+            "c": "Serious Eats",
+            "i": 4,
+            "t": "a"
+          },
+          "i": 3,
+          "t": "li"
+        },
+        {
+          "c": {
+            "c": "BBC Good Food",
+            "i": 6,
+            "t": "a"
+          },
+          "i": 5,
+          "t": "li"
+        },
+        {
+          "c": {
+            "c": "Bon Appetit",
+            "i": 8,
+            "t": "a"
+          },
+          "i": 7,
+          "t": "li"
+        },
+        {
+          "c": {
+            "c": "King Arthur Baking",
+            "i": 10,
+            "t": "a"
+          },
+          "i": 9,
+          "t": "li"
+        }
+      ],
+      "i": 2,
+      "t": "ul"
+    }
+  ],
+  "08cb293e979e708f": "Dimanche",
+  "0945d0b9648bfc0b": {
+    "c": [
+      "Liste de courses ",
+      {
+        "d": {
+          "b": {
+            "many": {
+              "c": [
+                "(",
+                {
+                  "i": 4,
+                  "k": "_gt_n_4",
+                  "v": "n"
+                },
+                " articles)"
+              ],
+              "i": 3,
+              "t": "C3"
+            },
+            "other": {
+              "c": [
+                "(",
+                {
+                  "i": 4,
+                  "k": "_gt_n_4",
+                  "v": "n"
+                },
+                " articles)"
+              ],
+              "i": 3,
+              "t": "C3"
+            },
+            "plural": {
+              "c": [
+                "(",
+                {
+                  "i": 4,
+                  "k": "_gt_n_4",
+                  "v": "n"
+                },
+                " articles)"
+              ],
+              "i": 3,
+              "t": "C3"
+            },
+            "singular": {
+              "c": [
+                "(",
+                {
+                  "i": 4,
+                  "k": "_gt_n_4",
+                  "v": "n"
+                },
+                " article)"
+              ],
+              "i": 3,
+              "t": "C3"
+            }
+          },
+          "t": "p"
+        },
+        "i": 2,
+        "t": "Plural"
+      }
+    ],
+    "i": 1,
+    "t": "h3"
+  },
+  "0a38a5acc8110b7d": [
+    {
+      "c": "Recettes",
+      "i": 1,
+      "t": "Link"
+    },
+    {
+      "c": "Catégories",
+      "i": 2,
+      "t": "Link"
+    },
+    {
+      "c": "Planificateur de repas",
+      "i": 3,
+      "t": "Link"
+    },
+    {
+      "c": "Conseils cuisine",
+      "i": 4,
+      "t": "Link"
+    }
+  ],
+  "0ff32fb3b34b76ad": [
+    {
+      "c": [
+        {
+          "c": "Temps de préparation",
+          "i": 2,
+          "t": "span"
+        },
+        {
+          "c": [
+            {
+              "i": 4,
+              "k": "_gt_n_4",
+              "v": "n"
+            },
+            " min"
+          ],
+          "i": 3,
+          "t": "span"
+        }
+      ],
+      "i": 1,
+      "t": "div"
+    },
+    {
+      "c": [
+        {
+          "c": "Temps de cuisson",
+          "i": 6,
+          "t": "span"
+        },
+        {
+          "c": [
+            {
+              "i": 8,
+              "k": "_gt_n_8",
+              "v": "n"
+            },
+            " min"
+          ],
+          "i": 7,
+          "t": "span"
+        }
+      ],
+      "i": 5,
+      "t": "div"
+    },
+    {
+      "c": [
+        {
+          "c": "Temps total",
+          "i": 10,
+          "t": "span"
+        },
+        {
+          "c": [
+            {
+              "i": 12,
+              "k": "_gt_n_12",
+              "v": "n"
+            },
+            " min"
+          ],
+          "i": 11,
+          "t": "span"
+        }
+      ],
+      "i": 9,
+      "t": "div"
+    }
+  ],
+  "147ae4ce98bc87d3": "Jeudi",
+  "19ca0365352fd2af": [
+    {
+      "c": "Recipe Blog",
+      "i": 1,
+      "t": "h3"
+    },
+    {
+      "c": "Explorez des recettes de cuisines du monde entier. Conçu pour démontrer des applications web multilingues avec gt-next.",
+      "i": 2,
+      "t": "p"
+    }
+  ],
+  "20bf7b616801f4b6": "Imprimer la recette",
+  "29d103ac6fc80c50": "Mercredi",
+  "2d74807ab4512641": {
+    "c": {
+      "d": {
+        "b": {
+          "many": {
+            "c": [
+              {
+                "i": 4,
+                "k": "_gt_n_4",
+                "v": "n"
+              },
+              " recettes"
+            ],
+            "i": 3,
+            "t": "C3"
+          },
+          "other": {
+            "c": [
+              {
+                "i": 4,
+                "k": "_gt_n_4",
+                "v": "n"
+              },
+              " recettes"
+            ],
+            "i": 3,
+            "t": "C3"
+          },
+          "plural": {
+            "c": [
+              {
+                "i": 4,
+                "k": "_gt_n_4",
+                "v": "n"
+              },
+              " recettes"
+            ],
+            "i": 3,
+            "t": "C3"
+          },
+          "singular": {
+            "c": [
+              {
+                "i": 4,
+                "k": "_gt_n_4",
+                "v": "n"
+              },
+              " recette"
+            ],
+            "i": 3,
+            "t": "C3"
+          }
+        },
+        "t": "p"
+      },
+      "i": 2,
+      "t": "Plural"
+    },
+    "i": 1,
+    "t": "p"
+  },
+  "2e8b2e10bb7af7ca": {
+    "c": "Calories",
+    "i": 1,
+    "t": "span"
+  },
+  "384093f0e3608cdf": {
+    "c": "Plus de recettes",
+    "i": 1,
+    "t": "h2"
+  },
+  "3972e07439e8ef1e": {
+    "c": "Parcourir par cuisine",
+    "i": 1,
+    "t": "h2"
+  },
+  "3d610fd721b93aef": {
+    "c": "Ajoutez des recettes à votre plan de repas pour générer une liste de courses.",
+    "i": 1,
+    "t": "p"
+  },
+  "487b45d957289c21": "Découvrez des recettes du monde entier. Un blog de recettes multilingue créé avec General Translation et Next.js.",
+  "4a86b9147e162e54": {
+    "d": {
+      "b": {
+        "equipment": {
+          "c": "Équipement",
+          "i": 2,
+          "t": "span"
+        },
+        "ingredient": {
+          "c": "Ingrédient",
+          "i": 2,
+          "t": "span"
+        },
+        "technique": {
+          "c": "Technique",
+          "i": 2,
+          "t": "span"
+        }
+      },
+      "t": "b"
+    },
+    "i": 1,
+    "t": "Branch"
+  },
+  "520a78586883510f": [
+    {
+      "c": "Conseils de cuisine",
+      "i": 1,
+      "t": "h1"
+    },
+    {
+      "c": "Améliorez votre cuisine grâce à des conseils pratiques sur les techniques, le matériel et les ingrédients. Que vous soyez débutant ou cuisinier expérimenté, il y a toujours quelque chose de nouveau à apprendre.",
+      "i": 2,
+      "t": "p"
+    }
+  ],
+  "5291f96bd01d0d65": " min de cuisson",
+  "5432460a9fcb2a58": "Recipe Blog",
+  "69d2303755cd2060": "Lundi",
+  "6fdc18fd6aabec11": {
+    "d": {
+      "b": {
+        "easy": {
+          "c": "Facile",
+          "i": 2,
+          "t": "span"
+        },
+        "hard": {
+          "c": "Difficile",
+          "i": 2,
+          "t": "span"
+        },
+        "medium": {
+          "c": "Moyen",
+          "i": 2,
+          "t": "span"
+        }
+      },
+      "t": "b"
+    },
+    "i": 1,
+    "t": "Branch"
+  },
+  "717b5e7ba068e1f5": {
+    "c": "Conseils supplémentaires",
+    "i": 1,
+    "t": "h2"
+  },
+  "73919028335cbf24": " portions",
+  "7dd7458f430fbc3e": [
+    {
+      "c": "Catégories",
+      "i": 1,
+      "t": "h1"
+    },
+    {
+      "c": "Parcourez notre collection de recettes par cuisine. Sélectionnez une catégorie ci-dessous pour filtrer.",
+      "i": 2,
+      "t": "p"
+    }
+  ],
+  "8294384dd4970344": "Toutes les cuisines",
+  "839d4b04e40ad46b": {
+    "c": "Dernières recettes",
+    "i": 1,
+    "t": "h2"
+  },
+  "86491979aebde79b": {
+    "c": "Déposez des recettes ici",
+    "i": 1,
+    "t": "p"
+  },
+  "8b8f60197e83dd6a": {
+    "c": "Recette vedette",
+    "i": 1,
+    "t": "p"
+  },
+  "92ceab244e832067": {
+    "c": [
+      "Ceci est un exemple d'application créée avec ",
+      {
+        "c": "General Translation",
+        "i": 2,
+        "t": "a"
+      },
+      " pour illustrer l'internationalisation. Il ne s'agit pas d'un service réel."
+    ],
+    "i": 1,
+    "t": "div"
+  },
+  "92fca9d95d65d527": {
+    "c": "Glucides",
+    "i": 1,
+    "t": "span"
+  },
+  "95ad76d1a1761904": {
+    "c": "Recettes disponibles",
+    "i": 1,
+    "t": "h2"
+  },
+  "a16f2bfc48c1f5f8": {
+    "c": "Gras",
+    "i": 1,
+    "t": "span"
+  },
+  "a26bd654d472a637": "Mardi",
+  "a2804f7c609f01f2": "Vendredi",
+  "a2c147b441425963": {
+    "c": "Instructions",
+    "i": 1,
+    "t": "h2"
+  },
+  "b4744703d46da86c": " min",
+  "c65cef2c9cdddb33": {
+    "c": "Portions :",
+    "i": 1,
+    "t": "span"
+  },
+  "c6f8bb55c58d9a0d": "Samedi",
+  "cbe927c37ce8af3b": {
+    "c": "Nutrition par portion",
+    "i": 1,
+    "t": "h3"
+  },
+  "cde9f40f571ce4a2": [
+    {
+      "c": "Planificateur de repas",
+      "i": 1,
+      "t": "h1"
+    },
+    {
+      "c": "Faites glisser des recettes depuis la liste ci-dessous dans votre planning hebdomadaire. Une liste de courses est automatiquement générée en fonction de vos sélections.",
+      "i": 2,
+      "t": "p"
+    }
+  ],
+  "cfed714d0d59e607": [
+    {
+      "c": "Vous voulez en savoir plus ?",
+      "i": 1,
+      "t": "h2"
+    },
+    {
+      "c": "Découvrez ces excellentes ressources culinaires pour des techniques approfondies et des recettes :",
+      "i": 2,
+      "t": "p"
+    },
+    {
+      "c": [
+        {
+          "c": {
+            "c": "Serious Eats — Guides de techniques",
+            "i": 5,
+            "t": "a"
+          },
+          "i": 4,
+          "t": "li"
+        },
+        {
+          "c": {
+            "c": "BBC Good Food — Guides pratiques",
+            "i": 7,
+            "t": "a"
+          },
+          "i": 6,
+          "t": "li"
+        },
+        {
+          "c": {
+            "c": "The Kitchn — Compétences culinaires",
+            "i": 9,
+            "t": "a"
+          },
+          "i": 8,
+          "t": "li"
+        }
+      ],
+      "i": 3,
+      "t": "ul"
+    }
+  ],
+  "d988afd5115b6a4f": {
+    "c": [
+      "Publié : ",
+      {
+        "i": 2,
+        "k": "_gt_date_2",
+        "v": "d"
+      }
+    ],
+    "i": 1,
+    "t": "span"
+  },
+  "dc97fcefcbc55a87": "Blog de recettes | General Translation",
+  "e6616f5c3846f233": [
+    {
+      "c": "Construit avec",
+      "i": 1,
+      "t": "h3"
+    },
+    {
+      "c": [
+        {
+          "c": {
+            "c": "General Translation",
+            "i": 4,
+            "t": "a"
+          },
+          "i": 3,
+          "t": "li"
+        },
+        {
+          "c": {
+            "c": "Next.js",
+            "i": 6,
+            "t": "a"
+          },
+          "i": 5,
+          "t": "li"
+        },
+        {
+          "c": {
+            "c": "Tailwind CSS",
+            "i": 8,
+            "t": "a"
+          },
+          "i": 7,
+          "t": "li"
+        }
+      ],
+      "i": 2,
+      "t": "ul"
+    }
+  ],
+  "ee6684fdd1fc8c82": {
+    "c": {
+      "d": {
+        "b": {
+          "many": {
+            "c": [
+              {
+                "i": 4,
+                "k": "_gt_n_4",
+                "v": "n"
+              },
+              " Ingrédients"
+            ],
+            "i": 3,
+            "t": "C3"
+          },
+          "other": {
+            "c": [
+              {
+                "i": 4,
+                "k": "_gt_n_4",
+                "v": "n"
+              },
+              " Ingrédients"
+            ],
+            "i": 3,
+            "t": "C3"
+          },
+          "plural": {
+            "c": [
+              {
+                "i": 4,
+                "k": "_gt_n_4",
+                "v": "n"
+              },
+              " Ingrédients"
+            ],
+            "i": 3,
+            "t": "C3"
+          },
+          "singular": {
+            "c": [
+              {
+                "i": 4,
+                "k": "_gt_n_4",
+                "v": "n"
+              },
+              " ingrédient"
+            ],
+            "i": 3,
+            "t": "C3"
+          }
+        },
+        "t": "p"
+      },
+      "i": 2,
+      "t": "Plural"
+    },
+    "i": 1,
+    "t": "h3"
+  },
+  "f11891b3f624c3fc": {
+    "d": {
+      "b": {
+        "gluten-free": {
+          "c": "Sans gluten",
+          "i": 2,
+          "t": "span"
+        },
+        "vegan": {
+          "c": "Végétalien",
+          "i": 2,
+          "t": "span"
+        },
+        "vegetarian": {
+          "c": "Végétarien",
+          "i": 2,
+          "t": "span"
+        }
+      },
+      "t": "b"
+    },
+    "i": 1,
+    "t": "Branch"
+  },
+  "f200491cab42b2f1": "Rechercher des recettes…",
+  "f2564c9dff8c28f2": {
+    "c": "Protéine",
+    "i": 1,
+    "t": "span"
+  },
+  "f884b9d195d21b5b": {
+    "c": {
+      "d": {
+        "b": {
+          "many": {
+            "c": [
+              {
+                "i": 4,
+                "k": "_gt_n_4",
+                "v": "n"
+              },
+              " résultats trouvés"
+            ],
+            "i": 3,
+            "t": "C3"
+          },
+          "other": {
+            "c": [
+              {
+                "i": 4,
+                "k": "_gt_n_4",
+                "v": "n"
+              },
+              " résultats trouvés"
+            ],
+            "i": 3,
+            "t": "C3"
+          },
+          "plural": {
+            "c": [
+              {
+                "i": 4,
+                "k": "_gt_n_4",
+                "v": "n"
+              },
+              " résultats trouvés"
+            ],
+            "i": 3,
+            "t": "C3"
+          },
+          "singular": {
+            "c": [
+              {
+                "i": 4,
+                "k": "_gt_n_4",
+                "v": "n"
+              },
+              " résultat trouvé"
+            ],
+            "i": 3,
+            "t": "C3"
+          }
+        },
+        "t": "p"
+      },
+      "i": 2,
+      "t": "Plural"
+    },
+    "i": 1,
+    "t": "p"
+  },
+  "fa0cbf820045c384": {
+    "c": "Recipe Blog — Un exemple d'application de traduction générale",
+    "i": 1,
+    "t": "div"
+  }
+}

@@ -1,0 +1,17 @@
+@import "tailwindcss";
+
+@theme {
+  --color-orange-brand: #EA580C;
+  --color-cream: #FFF7ED;
+  --color-dark: #1C1917;
+}
+
+@media print {
+  .no-print {
+    display: none !important;
+  }
+  body {
+    background: white !important;
+    color: black !important;
+  }
+}
