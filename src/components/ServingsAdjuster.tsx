@@ -2,6 +2,7 @@
 
 import { useState } from "react";
 import { T, Num, Plural } from "gt-next";
+import { useGT } from "gt-next/client";
 import type { Ingredient } from "@/data/recipes";
 
 interface Props {
@@ -10,6 +11,7 @@ interface Props {
 }
 
 export default function ServingsAdjuster({ defaultServings, ingredients }: Props) {
+  const gt = useGT();
   const [servings, setServings] = useState(defaultServings);
   const scale = servings / defaultServings;
 
@@ -23,7 +25,7 @@ export default function ServingsAdjuster({ defaultServings, ingredients }: Props
           <button
             onClick={() => setServings(Math.max(1, servings - 1))}
             className="w-8 h-8 rounded-full border border-orange-brand/40 text-orange-brand hover:bg-orange-brand hover:text-cream transition-colors flex items-center justify-center text-lg"
-            aria-label="Decrease servings"
+            aria-label={gt("Decrease servings")}
           >
             -
           </button>
@@ -33,7 +35,7 @@ export default function ServingsAdjuster({ defaultServings, ingredients }: Props
           <button
             onClick={() => setServings(servings + 1)}
             className="w-8 h-8 rounded-full border border-orange-brand/40 text-orange-brand hover:bg-orange-brand hover:text-cream transition-colors flex items-center justify-center text-lg"
-            aria-label="Increase servings"
+            aria-label={gt("Increase servings")}
           >
             +
           </button>

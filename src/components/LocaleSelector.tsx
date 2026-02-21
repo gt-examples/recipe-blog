@@ -5,10 +5,10 @@ import { usePathname, useRouter } from "next/navigation";
 
 const localeNames: Record<string, string> = {
   en: "English",
-  es: "Espanol",
-  fr: "Francais",
-  ja: "Japanese",
-  zh: "Chinese",
+  es: "Español",
+  fr: "Français",
+  ja: "日本語",
+  zh: "中文",
 };
 
 export default function LocaleSelector() {

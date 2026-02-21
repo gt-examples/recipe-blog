@@ -132,7 +132,7 @@ export default function MealPlannerPage() {
                         <button
                           onClick={() => removeFromDay(day, r.slug)}
                           className="text-dark/40 hover:text-red-500 ml-1"
-                          aria-label="Remove"
+                          aria-label={gt("Remove")}
                         >
                           x
                         </button>

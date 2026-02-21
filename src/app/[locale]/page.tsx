@@ -1,18 +1,19 @@
 import { T, Num, DateTime } from "gt-next";
+import { getGT } from "gt-next/server";
 import Link from "next/link";
 import { recipes, getFeaturedRecipes, cuisines } from "@/data/recipes";
 import RecipeCard from "@/components/RecipeCard";
 import RecipeSearch from "@/components/RecipeSearch";
 
-const cuisineLabels: Record<string, string> = {
-  italian: "Italian",
-  japanese: "Japanese",
-  mexican: "Mexican",
-  indian: "Indian",
-  french: "French",
-};
-
-export default function HomePage() {
+export default async function HomePage() {
+  const gt = await getGT();
+  const cuisineLabels: Record<string, string> = {
+    italian: gt("Italian"),
+    japanese: gt("Japanese"),
+    mexican: gt("Mexican"),
+    indian: gt("Indian"),
+    french: gt("French"),
+  };
   const featured = getFeaturedRecipes();
   const hero = featured[0];
   const latest = recipes.slice(0, 6);

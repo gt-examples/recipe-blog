@@ -48,7 +48,8 @@
       "t": "ul"
     }
   ],
-  "08cb293e979e708f": "Dimanche",
+  "085d217bcf9cd082": "Cuisine mexicaine",
+  "08cb293e979e708f": "dimanche",
   "0945d0b9648bfc0b": {
     "c": [
       "Liste de courses ",
@@ -210,7 +211,7 @@
       "t": "div"
     }
   ],
-  "147ae4ce98bc87d3": "Jeudi",
+  "147ae4ce98bc87d3": "jeudi",
   "19ca0365352fd2af": [
     {
       "c": "Recipe Blog",
@@ -224,7 +225,9 @@
     }
   ],
   "20bf7b616801f4b6": "Imprimer la recette",
-  "29d103ac6fc80c50": "Mercredi",
+  "252113dddccaec1a": "Français",
+  "29d103ac6fc80c50": "mercredi",
+  "2c5674665579a329": "Fermer",
   "2d74807ab4512641": {
     "c": {
       "d": {
@@ -291,6 +294,7 @@
     "i": 1,
     "t": "span"
   },
+  "3545659a9d1bb2e3": "Cuisine italienne",
   "384093f0e3608cdf": {
     "c": "Plus de recettes",
     "i": 1,
@@ -338,14 +342,15 @@
       "t": "h1"
     },
     {
-      "c": "Améliorez votre cuisine grâce à des conseils pratiques sur les techniques, le matériel et les ingrédients. Que vous soyez débutant ou cuisinier expérimenté, il y a toujours quelque chose de nouveau à apprendre.",
+      "c": "Améliorez vos compétences culinaires grâce à des conseils pratiques sur les techniques, le matériel et les ingrédients. Que vous soyez débutant ou cuisinier expérimenté, il y a toujours quelque chose de nouveau à apprendre.",
       "i": 2,
       "t": "p"
     }
   ],
   "5291f96bd01d0d65": " min de cuisson",
   "5432460a9fcb2a58": "Recipe Blog",
-  "69d2303755cd2060": "Lundi",
+  "5fb46803afbc9054": "Afficher/masquer le menu",
+  "69d2303755cd2060": "lundi",
   "6fdc18fd6aabec11": {
     "d": {
       "b": {
@@ -427,25 +432,28 @@
     "i": 1,
     "t": "h2"
   },
+  "9b87ce35ae509a52": "Réduire le nombre de portions",
+  "a00cc96dd397794c": "Augmenter le nombre de portions",
   "a16f2bfc48c1f5f8": {
     "c": "Gras",
     "i": 1,
     "t": "span"
   },
-  "a26bd654d472a637": "Mardi",
-  "a2804f7c609f01f2": "Vendredi",
+  "a26bd654d472a637": "mardi",
+  "a2804f7c609f01f2": "vendredi",
   "a2c147b441425963": {
     "c": "Instructions",
     "i": 1,
     "t": "h2"
   },
   "b4744703d46da86c": " min",
+  "b9027239b9dba155": "Cuisine indienne",
   "c65cef2c9cdddb33": {
     "c": "Portions :",
     "i": 1,
     "t": "span"
   },
-  "c6f8bb55c58d9a0d": "Samedi",
+  "c6f8bb55c58d9a0d": "samedi",
   "cbe927c37ce8af3b": {
     "c": "Nutrition par portion",
     "i": 1,
@@ -508,6 +516,7 @@
       "t": "ul"
     }
   ],
+  "d1634d41846e72cb": "Cuisine japonaise",
   "d988afd5115b6a4f": {
     "c": [
       "Publié : ",
@@ -646,7 +655,7 @@
     "i": 1,
     "t": "Branch"
   },
-  "f200491cab42b2f1": "Rechercher des recettes…",
+  "f200491cab42b2f1": "Rechercher des recettes...",
   "f2564c9dff8c28f2": {
     "c": "Protéine",
     "i": 1,

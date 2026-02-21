@@ -2,22 +2,24 @@
 
 import { useState } from "react";
 import { T, Plural, Num } from "gt-next";
+import { useGT } from "gt-next/client";
 import { recipes, cuisines, getRecipesByCuisine } from "@/data/recipes";
 import RecipeCard from "@/components/RecipeCard";
 import { useSearchParams } from "next/navigation";
 
-const cuisineLabels: Record<string, string> = {
-  italian: "Italian",
-  japanese: "Japanese",
-  mexican: "Mexican",
-  indian: "Indian",
-  french: "French",
-};
-
 export default function CategoriesPage() {
+  const gt = useGT();
   const searchParams = useSearchParams();
   const initialCuisine = searchParams.get("cuisine") || "";
   const [selected, setSelected] = useState<string>(initialCuisine);
+
+  const cuisineLabels: Record<string, string> = {
+    italian: gt("Italian"),
+    japanese: gt("Japanese"),
+    mexican: gt("Mexican"),
+    indian: gt("Indian"),
+    french: gt("French"),
+  };
 
   const filtered = selected
     ? getRecipesByCuisine(selected as typeof cuisines[number])

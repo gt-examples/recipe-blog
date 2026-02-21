@@ -48,6 +48,7 @@
       "t": "ul"
     }
   ],
+  "085d217bcf9cd082": "Mexicana",
   "08cb293e979e708f": "domingo",
   "0945d0b9648bfc0b": {
     "c": [
@@ -224,7 +225,9 @@
     }
   ],
   "20bf7b616801f4b6": "Imprimir receta",
+  "252113dddccaec1a": "Francés",
   "29d103ac6fc80c50": "miércoles",
+  "2c5674665579a329": "Eliminar",
   "2d74807ab4512641": {
     "c": {
       "d": {
@@ -291,13 +294,14 @@
     "i": 1,
     "t": "span"
   },
+  "3545659a9d1bb2e3": "Italiana",
   "384093f0e3608cdf": {
     "c": "Más recetas",
     "i": 1,
     "t": "h2"
   },
   "3972e07439e8ef1e": {
-    "c": "Explorar por tipo de cocina",
+    "c": "Explorar por cocina",
     "i": 1,
     "t": "h2"
   },
@@ -306,7 +310,7 @@
     "i": 1,
     "t": "p"
   },
-  "487b45d957289c21": "Explora recetas de todo el mundo. Un blog de recetas multilingüe creado con General Translation y Next.js.",
+  "487b45d957289c21": "Descubre recetas de todo el mundo. Un blog de recetas multilingüe creado con General Translation y Next.js.",
   "4a86b9147e162e54": {
     "d": {
       "b": {
@@ -344,7 +348,8 @@
     }
   ],
   "5291f96bd01d0d65": " min de cocción",
-  "5432460a9fcb2a58": "Blog de recetas",
+  "5432460a9fcb2a58": "Recipe Blog",
+  "5fb46803afbc9054": "Mostrar/ocultar menú",
   "69d2303755cd2060": "lunes",
   "6fdc18fd6aabec11": {
     "d": {
@@ -427,6 +432,8 @@
     "i": 1,
     "t": "h2"
   },
+  "9b87ce35ae509a52": "Reducir raciones",
+  "a00cc96dd397794c": "Aumentar raciones",
   "a16f2bfc48c1f5f8": {
     "c": "Gordo",
     "i": 1,
@@ -440,6 +447,7 @@
     "t": "h2"
   },
   "b4744703d46da86c": " min",
+  "b9027239b9dba155": "India",
   "c65cef2c9cdddb33": {
     "c": "Porciones:",
     "i": 1,
@@ -508,6 +516,7 @@
       "t": "ul"
     }
   ],
+  "d1634d41846e72cb": "Japonesa",
   "d988afd5115b6a4f": {
     "c": [
       "Publicado: ",

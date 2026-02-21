@@ -2,6 +2,7 @@
 
 import Link from "next/link";
 import { T } from "gt-next";
+import { useGT } from "gt-next/client";
 import LocaleSelector from "./LocaleSelector";
 import { useState } from "react";
 
@@ -20,6 +21,7 @@ function GitHubIcon() {
 }
 
 export default function Header() {
+  const gt = useGT();
   const [mobileOpen, setMobileOpen] = useState(false);
 
   return (
@@ -61,7 +63,7 @@ export default function Header() {
         <button
           className="md:hidden text-cream"
           onClick={() => setMobileOpen(!mobileOpen)}
-          aria-label="Toggle menu"
+          aria-label={gt("Toggle menu")}
         >
           <svg width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2">
             {mobileOpen ? (
